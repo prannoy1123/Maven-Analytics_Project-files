@@ -3,7 +3,7 @@
 Fact table: Sales By Store & Food Inventory
 Dimension Table: Calendar, Product,Customer, Employee,Store & other vertual tables.
 
-The data comprises of 4 stores and each store has their individual products aggregated in their catagory an shared for year 2017,2018 & 2019, the task is to get the KPI's as per the requirement of client and also anaylse the data to pull the insights which are shared below;
+The data comprises of 4 stores and each store has their individual products aggregated in their catagory and shared for year 2017,2018 & 2019, the task is to get the KPI's as per the requirement of client and also anaylse the data to pull the insights which are shared below;
 
 The data is shared in the report format in the pbix file as well as in the pdf format
 
